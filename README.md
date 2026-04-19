@@ -2,8 +2,7 @@
 
 ## 🌐 Demo
 
-[🔗 **Acessar a landing page**](https://seusite.com)
-*Em breve*
+[🔗 **Acessar a landing page**](https://home-care-livid.vercel.app/)
 
 ---
 
